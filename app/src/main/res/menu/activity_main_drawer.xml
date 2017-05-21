@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_accommodation"
+            android:icon="@drawable/ic_hotel_black_24dp"
+            android:title="@string/accommodation" />
+        <item
+            android:id="@+id/nav_res_and_clubs"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="@string/res_and_clubs" />
+        <item
+            android:id="@+id/nav_culture"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="@string/culture" />
+        <item
+            android:id="@+id/nav_sport_and_rec"
+            android:icon="@drawable/ic_directions_run_black_24dp"
+            android:title="@string/sport_and_rec" />
+    </group>
+</menu>

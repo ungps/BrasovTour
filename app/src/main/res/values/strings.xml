@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BrasovTour</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="accommodation">Accommodation</string>
+    <string name="sport_and_rec">Sport and recreation</string>
+    <string name="culture">Cultural places</string>
+    <string name="res_and_clubs">Restaurants and clubs</string>
+
+
+    <string name="brasov">Brasov</string>
+    <string name="welcome">Welcome to Brasov!</string>
+
+
+    <string name ="Hotel1Name">Hotel Ambient</string>
+    <string name ="Hotel1Address">Str. Lalelelor 2</string>
+    <string name ="Hotel1Rating">4.0</string>
+
+    <string name ="Hotel2Name">Hotel Pietrele lui Solomon</string>
+    <string name ="Hotel2Address">Str. Barbosilor 30</string>
+    <string name ="Hotel2Rating">4.0</string>
+
+    <string name ="Hotel3Name">Hotel Conac Ambient</string>
+    <string name ="Hotel3Address">Str. Muntelui 4</string>
+    <string name ="Hotel3Rating">5.0</string>
+
+    <string name ="Restaurant1Name">Grand Restaurant</string>
+    <string name ="Restaurant1Address">Str. Mihail Kogalniceanu 15</string>
+    <string name ="Restaurant1Rating">4.1</string>
+
+    <string name ="Restaurant2Name">Restaurant Sura Dacilor</string>
+    <string name ="Restaurant2Address">Str. Valea Lunga 1</string>
+    <string name ="Restaurant2Rating">3.1</string>
+
+    <string name ="Restaurant3Name">Restaurant Casa Romaneasca</string>
+    <string name ="Restaurant3Address">Piata Unirii 14</string>
+    <string name ="Restaurant3Rating">4.4</string>
+
+    <string name ="Sport1Name">Parc Aventura</string>
+    <string name ="Sport1Address">Str Paltinului 1</string>
+    <string name ="Sport1Rating">4.8</string>
+
+    <string name ="Sport2Name">Athletic Gym Sport</string>
+    <string name ="Sport2Address">Str. Dumbrava Rosie 48</string>
+    <string name ="Sport2Rating">4.0</string>
+
+    <string name ="Sport3Name">R AND J Ski</string>
+    <string name ="Sport3Address">Str. Poiana Soarelui 237</string>
+    <string name ="Sport3Rating">5.0</string>
+
+    <string name ="Cultural1Name">Muzeul de etnografie</string>
+    <string name ="Cultural1Address">Bd Brasvoului 153</string>
+    <string name ="Cultural1Rating">4.5</string>
+
+    <string name ="Cultural2Name">Muzeul de arta</string>
+    <string name ="Cultural2Address">Str. Eroilor 21</string>
+    <string name ="Cultural2Rating">4.1</string>
+
+    <string name ="Cultural3Name">Muzeul Judetean de Istorie</string>
+    <string name ="Cultural3Address">Str. Sfatului 30</string>
+    <string name ="Cultural3Rating">4.5</string>
+</resources>
